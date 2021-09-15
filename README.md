@@ -43,7 +43,7 @@ TT100k转为CoCo格式：
 ##### 结果
 
 <p align="center">
-<img src="results/20210915200405.jpg" width="400px"/>
+<img src="results/20210915200405.jpg" width="800px"/>
 <br>
 
 如上，mAP不高，分析原因，可能如下：
@@ -60,5 +60,5 @@ TT100k转为CoCo格式：
 
 
 <p align="center">
-<img src="results/result.png" width="400px"/>
+<img src="results/result.png" width="800px"/>
 <br>
