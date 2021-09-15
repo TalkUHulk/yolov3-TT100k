@@ -33,6 +33,13 @@ TT100k转为CoCo格式：
 
 `python  scripts/tt100k2coco.py`
 
+##### 测试
+
+[pretrained model](https://pan.baidu.com/s/1fY1u7gacTnbOohTBpInZVw)
+密码: 026r
+
+下载到model_data,运行:`python predict.py`
+
 ##### 结果
 
 <p align="center">
